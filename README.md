@@ -2,6 +2,11 @@
 
 <!--
 **azusa707/azusa707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub Snake" src="dist/github-snake.svg" />
+</picture>
 
 Here are some ideas to get you started:
 
