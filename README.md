@@ -17,8 +17,4 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://spotify-bqalhvh5i-azusa707s-projects.vercel.app?" alt="Widget with the current Spotify song"  />
-</div>
-
 [![Spotify](https://spotify-bqalhvh5i-azusa707s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/6qto8kaue6evb9a1eh5emcnge)
