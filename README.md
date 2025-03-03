@@ -16,3 +16,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://spotify-fn8dpxcjm-azusa707s-projects.vercel.app?theme=dark&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
+</div>
+
+###
