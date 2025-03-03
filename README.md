@@ -21,5 +21,4 @@
   <img src="https://spotify-fn8dpxcjm-azusa707s-projects.vercel.app?theme=dark&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
 
-[![Spotify](https://spotify-bqalhvh5i-azusa707s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/azusa707s)
-
+[![Spotify](https://spotify-bqalhvh5i-azusa707s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/AzuArmy) 
